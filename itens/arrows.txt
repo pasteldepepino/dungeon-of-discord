@@ -1,0 +1,5 @@
+arrows
+ammu
+bow
+uncommon
+arrows to be used with a bow. theres a whole bunch of them

@@ -1,0 +1,7 @@
+strength potion
+consumable
+str
+10
+7
+legendary
+a bottle with "strength potion"

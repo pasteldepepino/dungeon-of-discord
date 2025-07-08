@@ -1,0 +1,6 @@
+dagger
+weapon
+7
+str
+rare
+a little yet powerful iron dagger

@@ -1,0 +1,6 @@
+hat
+armor
+head
+3
+uncommon
+a cool farmer hat

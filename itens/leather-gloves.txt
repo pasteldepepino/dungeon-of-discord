@@ -1,0 +1,6 @@
+leather gloves
+armor
+hands
+2
+common
+a pair of leather gloves 

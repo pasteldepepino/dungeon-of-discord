@@ -1,0 +1,6 @@
+steel chestplate
+armor
+chest
+8
+epic
+a steel chestplate with elfic writings on it

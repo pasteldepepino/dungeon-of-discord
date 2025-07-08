@@ -1,0 +1,6 @@
+stick
+weapon
+5
+str
+common
+just a stick you can hit others with this but won't be very effective

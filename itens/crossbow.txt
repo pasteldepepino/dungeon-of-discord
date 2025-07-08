@@ -1,0 +1,7 @@
+crossbow
+weapon
+11
+dex
+darts
+epic
+a croosbow

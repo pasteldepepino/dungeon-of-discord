@@ -1,0 +1,7 @@
+bow
+weapon
+7
+dex
+arrows
+rare
+a beatifull elfic bow

@@ -1,0 +1,7 @@
+bandages
+consumable
+health
+45
+next
+rare
+a piece of white medical bandage

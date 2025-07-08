@@ -1,0 +1,7 @@
+water bottle
+consumable
+health
+3
+instant
+common
+a bottle of fresh water... wait... how can water from a 1000 years old dungeon be fresh?!

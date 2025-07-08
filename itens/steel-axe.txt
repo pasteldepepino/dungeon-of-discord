@@ -1,0 +1,6 @@
+steel axe
+weapon
+15
+str
+super rare
+a big heavy steel axe

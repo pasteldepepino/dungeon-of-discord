@@ -1,0 +1,6 @@
+helmet
+armor
+head
+5
+rare
+a good solid helmet

@@ -1,0 +1,7 @@
+instant heal potion
+consumable
+health
+100
+instant
+legendary
+a bottle with a red liquid that claims to be healing potion

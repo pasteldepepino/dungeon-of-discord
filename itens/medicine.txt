@@ -1,0 +1,7 @@
+medicine
+consumable
+health
+57
+2
+epic
+a pot with some medicine, here says: "byron's royal medicine"

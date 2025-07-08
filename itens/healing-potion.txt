@@ -1,0 +1,7 @@
+healing potion
+consumable
+health
+75
+1
+super-rare
+a divine potion that heals you

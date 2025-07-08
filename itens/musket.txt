@@ -1,0 +1,7 @@
+musket
+weapon
+22
+dex
+iron balls
+legendary
+a musketmade in wood and steel, there's some gun powder here already

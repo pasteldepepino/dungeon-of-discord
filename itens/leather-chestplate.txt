@@ -1,0 +1,6 @@
+leather chestplate
+armor
+chest
+12
+uncommon
+a chestplate made of leather

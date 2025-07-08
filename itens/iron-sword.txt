@@ -1,0 +1,6 @@
+iron sword
+weapon
+10
+str
+uncommon
+oh, cool sword!

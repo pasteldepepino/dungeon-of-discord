@@ -1,0 +1,7 @@
+dry berries
+consumable
+health
+10
+instant
+uncommon
+delicious dried wild berries

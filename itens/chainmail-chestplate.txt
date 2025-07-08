@@ -1,0 +1,6 @@
+chainmail chestplate
+armor
+chest
+8
+super rare
+a shiny chainmail chestplate

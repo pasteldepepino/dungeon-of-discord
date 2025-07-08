@@ -1,0 +1,7 @@
+dry meat
+consumable
+health
+22
+instant
+rare
+a well coocked piece of dry meat
